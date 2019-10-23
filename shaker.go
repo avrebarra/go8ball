@@ -1,4 +1,4 @@
-package shaker
+package main
 
 import (
 	"fmt"
