@@ -1,2 +1,2 @@
-# 8ball-go
-Magic 8-Ball simulation HTTP server
+# go8ball
+Magic 8-Ball simulation as Go HTTP server
